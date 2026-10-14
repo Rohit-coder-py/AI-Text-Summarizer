@@ -1,11 +1,9 @@
-<div align="center">
-
-<img src="assets/header.svg" alt="AI Text Summariser — animated banner" width="100%"/>
-
-<br/>
 
 [![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-Open_the_App-d9a94a?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-text-summarizer-transformers.streamlit.app/)
 [![Preview](https://img.shields.io/badge/🎬_PREVIEW-Watch_the_Video-ee5f7a?style=for-the-badge)](preview/preview.mp4)
+
+<b>Watch Preview of Project :</b> https://github.com/user-attachments/assets/b8920b59-8407-4204-abbd-bb4407dc8ff7
+
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -37,7 +35,7 @@
 
 <img src="preview/preview.gif" alt="App preview" width="270"/>
 
-<sub>Vertical 9:16 preview · full-quality video in <a href="preview/preview.mp4"><code>preview/preview.mp4</code></a></sub>
+<b>Watch Preview of Project :</b> https://github.com/user-attachments/assets/b8920b59-8407-4204-abbd-bb4407dc8ff7
 
 </div>
 
@@ -192,18 +190,6 @@ streamlit run app.py
 | Data | Pandas |
 | Experiments | Jupyter Notebook |
 
----
-
-## 🔭 Ideas for next steps
-
-- [ ] Compare several summarisation models side by side
-- [ ] ROUGE scores against a reference summary
-- [ ] Summarise from a URL or PDF
-- [ ] Download summaries as PDF / Markdown
-
----
-
-<div align="center">
 
 **Live app → [ai-text-summarizer-transformers.streamlit.app](https://ai-text-summarizer-transformers.streamlit.app/)**
 
